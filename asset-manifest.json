@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/redux-sandbox-bura/static/js/main.a4bd8abe.chunk.js",
+    "main.js.map": "/redux-sandbox-bura/static/js/main.a4bd8abe.chunk.js.map",
+    "runtime-main.js": "/redux-sandbox-bura/static/js/runtime-main.16f8247a.js",
+    "runtime-main.js.map": "/redux-sandbox-bura/static/js/runtime-main.16f8247a.js.map",
+    "static/js/2.8b560675.chunk.js": "/redux-sandbox-bura/static/js/2.8b560675.chunk.js",
+    "static/js/2.8b560675.chunk.js.map": "/redux-sandbox-bura/static/js/2.8b560675.chunk.js.map",
+    "index.html": "/redux-sandbox-bura/index.html",
+    "precache-manifest.1b1ed9351f2bf6ac1a575033dbab00d2.js": "/redux-sandbox-bura/precache-manifest.1b1ed9351f2bf6ac1a575033dbab00d2.js",
+    "service-worker.js": "/redux-sandbox-bura/service-worker.js",
+    "static/js/2.8b560675.chunk.js.LICENSE.txt": "/redux-sandbox-bura/static/js/2.8b560675.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16f8247a.js",
+    "static/js/2.8b560675.chunk.js",
+    "static/js/main.a4bd8abe.chunk.js"
+  ]
+}
